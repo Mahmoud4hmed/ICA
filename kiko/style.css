@@ -1,0 +1,14 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+#kdown{
+    border: 0px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+#kd{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
